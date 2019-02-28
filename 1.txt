@@ -31,4 +31,12 @@ eg
 we
 g
 we
+
+
+public test_merger(){
+   test  bufg();
+
+}
+
+}
 }
