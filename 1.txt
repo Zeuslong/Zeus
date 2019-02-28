@@ -14,9 +14,21 @@ aegegege区别在这里
 public static void main[]{
 
 egegegeg
+111111111
+1111111111
+test_masster_pull
+--------------my----------
 
 gegegggeg
 gegweg
 gewgwfg
 test_masster_pull
+-------------------------
+
+egwegwe
+gw
+eg
+we
+g
+we
 }
